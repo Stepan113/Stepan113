@@ -18,6 +18,7 @@
 ### 🛠 Технологический стек
 
 #### Языки и фреймворки
+
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
@@ -30,6 +31,7 @@
 </p>
 
 #### Базы данных и брокеры
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -38,6 +40,7 @@
 </p>
 
 #### Инструменты и DevOps
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -62,7 +65,9 @@
       </p>
       <p>REST API для библиотеки: регистрация с подтверждением через email, каталог книг, выдача и возврат. Дополнительно реализован движок форума с темами и комментариями. Вся система разворачивается через Docker Compose.</p>
       <p align="center">
-        <a href="https://github.com/username/library-api">📁 Репозиторий</a>
+        <a href="https://github.com/username/library-api">
+          <img src="https://img.shields.io/badge/📁_Репозиторий-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
+        </a>
       </p>
     </td>
     <td width="50%">
@@ -74,8 +79,12 @@
       </p>
       <p>Бот для учёта задач и предметов. Позволяет создавать записи с дедлайнами, просматривать список невыполненных дел. Раз в день присылает напоминание о задачах с истекающим сроком. Хранение состояний через Redis.</p>
       <p align="center">
-        <a href="https://github.com/username/diary-bot">📁 Репозиторий</a> •
-        <a href="https://t.me/your_bot">🤖 Написать боту</a>
+        <a href="https://github.com/username/diary-bot">
+          <img src="https://img.shields.io/badge/📁_Репозиторий-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
+        </a>
+        <a href="https://t.me/your_bot">
+          <img src="https://img.shields.io/badge/🤖_Бот-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Bot">
+        </a>
       </p>
     </td>
   </tr>
@@ -84,7 +93,7 @@
       <h3 align="center">⚙️ В процессе...</h3>
       <p align="center">Изучаю микросервисную архитектуру и нагрузочное тестирование. Следующий проект — сервис рассылок на Spring Boot + RabbitMQ.</p>
       <p align="center">
-        <a href="https://github.com/username">🔜 Скоро на GitHub</a>
+        <a href="https://github.com/Stepan113">🔜 Скоро на GitHub</a>
       </p>
     </td>
   </tr>
