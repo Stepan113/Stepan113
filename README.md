@@ -65,7 +65,7 @@
       </p>
       <p>REST API для библиотеки: регистрация с подтверждением через email, каталог книг, выдача и возврат. Дополнительно реализован движок форума с темами и комментариями. Вся система разворачивается через Docker Compose.</p>
       <p align="center">
-        <a href="https://github.com/username/library-api">
+        <a href="https://github.com/Stepan113/backend">
           <img src="https://img.shields.io/badge/📁_Репозиторий-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
       </p>
@@ -79,10 +79,10 @@
       </p>
       <p>Бот для учёта задач и предметов. Позволяет создавать записи с дедлайнами, просматривать список невыполненных дел. Раз в день присылает напоминание о задачах с истекающим сроком. Хранение состояний через Redis.</p>
       <p align="center">
-        <a href="https://github.com/username/diary-bot">
+        <a href="https://github.com/Stepan113/tgbotForDevops">
           <img src="https://img.shields.io/badge/📁_Репозиторий-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
         </a>
-        <a href="https://t.me/your_bot">
+        <a href="https://t.me/electronic_diary_lab_bot">
           <img src="https://img.shields.io/badge/🤖_Бот-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Bot">
         </a>
       </p>
