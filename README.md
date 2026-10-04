@@ -1,5 +1,5 @@
 <h1 align="center">Привет, я Степан 👋</h1>
-<h3 align="center">Backend-разработчик (Java / Python) — ищу стажировку</h3>
+<h3 align="center">Backend-разработчик (Java / Python) — ищу работу</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-open%20to%20internship%2Fjunior-success?style=for-the-badge" alt="Open to work">
