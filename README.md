@@ -101,6 +101,17 @@
 
 ---
 
+### 📊 GitHub-статистика
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Stepan113&amp;include_all_commits=true&amp;show_icons=true&amp;hide_rank=true&amp;theme=dark_github&amp;locale=ru" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Stepan113&amp;include_all_commits=true&amp;show_icons=true&amp;hide_rank=true&amp;theme=light_github&amp;locale=ru" alt="Статистика GitHub: коммиты, pull request и другие показатели" />
+  </picture>
+</p>
+
+---
+
 ### 📚 Обучение и курсы
 
 - **Ульяновский государственный технический университет (УлГТУ)** — обучение по направлению «Программная инженерия», 4 курс.
